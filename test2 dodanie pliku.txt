@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-zmiana treści pliku3
-=======
-xxx
->>>>>>> b3dd238aa7e3cdee14dacf31758d9162f8d99895
